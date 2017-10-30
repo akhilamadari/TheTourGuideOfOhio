@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">TheTourGuideOfOhio</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Category name for places [CHAR LIMIT=20] -->
+    <string name="category_places">Places</string>
+
+    <!-- Category name  for Hotels [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name  for restaurent [CHAR LIMIT=20] -->
+    <string name="category_restaurent">Dine</string>
+
+    <!-- Category name for Shopping [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shop</string>
+
+    <string name="place1">Hocking Hills State Park</string>
+
+    <string name="place2">Cedar Point</string>
+
+    <string name="place3">Kings Island</string>
+
+    <string name="place4">Rock and Roll Hall of Fame</string>
+
+
+    <string name="place1_des">Stunning retreat with varied recreation like scenic park with hiking trails, archery, fishing, swimming and more</string>
+
+    <string name="place2_des">Sprawling amusement park with a wide range of water slides, thrill rides, coasters and entertainment</string>
+
+    <string name="place3_des">Amusement park with diverse rides of water park with a wave pool, roller coasters and a life like dinosaur exhibit and more.</string>
+
+    <string name="place4_des">RIconic music-minded museum loaded with pop-culture memorabilia,instruments and a jukebox.</string>
+
+
+    <string name="rest1">Spot Restaurant</string>
+
+    <string name="rest2">Barn Restaurant</string>
+
+    <string name="rest3">Chalet In The Valley Restaurant</string>
+
+    <string name="rest4">Mrs Yoder Kitchen</string>
+
+    <string name="rest1_des">Storied counter-serve restaurant known for its hamburgers and cream pies, plus daily breakfast. Sidney,OH</string>
+
+    <string name="rest2_des">All you can eat Great dessert Cozy. Archbold, OH</string>
+
+    <string name="rest3_des">Cheese fondues, rosti potatoes and spatzle dumplings in a homey.Millersburg,OH</string>
+
+    <string name="rest4_des">Country restaurant serving down-home Amish dishes, with daily specials and varying buffet schedule.Millersburg,OH</string>
+
+
+    <string name="hotel1">Residence Inn by Marriott Columbus Downtown</string>
+
+    <string name="hotel2">Crowne Plaza Columbus-Downtown</string>
+
+    <string name="hotel3">SpringHill Suites by Marriott Columbus OSU</string>
+
+    <string name="hotel4">Columbus Airport Marriott</string>
+
+    <string name="hotel1_des">3-star hotel. Modern hotel offering relaxed suites with full kitchens and free hot breakfast.</string>
+
+    <string name="hotel2_des">4-star hotel. Business option offering subdued rooms with free Wi-Fi, plus a pool, dining and meeting space</string>
+
+    <string name="hotel3_des">3-star hotel. Modern all-suite lodging with a bar and an indoor pool, plus free WiFi and hot breakfast</string>
+
+    <string name="hotel4_des">C3-star hotel. Contemporary property with an American grill restaurant, a lounge/bar and a 24/7 fitness center</string>
+
+
+    <string name="shop1">Easton Town Center</string>
+
+    <string name="shop2">The Shops At Fallen Timbers</string>
+
+    <string name="shop3">The Greene</string>
+
+    <string name="shop4">Cincinnati Premium Outlets</string>
+
+    <string name="shop1_des">Columbus, OH. Open until 10:00 PM</string>
+
+    <string name="shop2_des">Maumee, OH. Open until 9:00 PM</string>
+
+    <string name="shop3_des">Beavercreek, OH. Open until 9:00 PM</string>
+
+    <string name="shop4_des">400 Premium Outlets Dr. Open until 9:00 PM</string>
+</resources>
